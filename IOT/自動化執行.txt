@@ -1,0 +1,3 @@
+crontab -e
+
+0 * * * * /usr/bin/python /root/hugo/kafka.py
